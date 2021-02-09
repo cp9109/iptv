@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="MENA;EUR;NORAM;AU" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Abu Dhabi TV (1080p)
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" tvg-url="" group-title="",Ada TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" tvg-url="" group-title="",Ada TV (1080p)
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-url="" group-title="",GoTV (576p)
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ASIA;EUR;AFR;AU;NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-url="" group-title="Religious",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN;CA;UK;US;AU;NZ;EUR" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" tvg-url="" group-title="",Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR;US;CA" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/YAn5BJZ.png" tvg-url="" group-title="",RIK Sat (720p)
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MENA;EUR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" tvg-url="" group-title="",Sat 7 Arabic (720p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MENA;EUR" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="",Sat 7 Kids (720p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MENA;EUR" tvg-language="Persian" tvg-logo="https://i.imgur.com/wrOg8vL.png" tvg-url="" group-title="",Sat 7 Pars (720p)
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MENA;EUR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/zia9ehv.jpg" tvg-url="" group-title="",Sat 7 Türk (720p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" tvg-url="" group-title="",Taivas TV7 (720p)
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Yle TV1 FI" tvg-name="Yle TV1 FI" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/MTZM0k5.png" tvg-url="" group-title="",Yle TV1 (720p)
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
+#EXTINF:-1 tvg-id="Yle TV2 FI" tvg-name="Yle TV2 FI" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/SHLh731.png" tvg-url="" group-title="",Yle TV2 (720p)
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS;EUR" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="",Беларусь 24 (720p)
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
